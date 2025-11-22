@@ -130,6 +130,7 @@ ol {
   min-width: 225px;
   background-color: transparent;
   font: inherit;
+  color: inherit;
   gap: 10px;
   border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
